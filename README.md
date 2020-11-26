@@ -18,3 +18,6 @@
 ## Dataset
 Original ArXiV dataset is too huge for classification task so we used metadata published by Kaggle <br>
 [Kaggle Dataset : ArXiv Metadata](https://www.kaggle.com/Cornell-University/arxiv)
+
+## Test Dataset
+Test dataset is too huge to upload it on Github. Download and unzip the test dataset.
